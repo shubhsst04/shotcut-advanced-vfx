@@ -26,7 +26,7 @@ This project demonstrates advanced video editing techniques using Shotcut, inclu
 ## Results & Deliverables
 - **Format:** MP4
 - **Resolution:** 1920 × 1080
-- **Final Video:** Add your exported video link here.
+- **Final Video:** [Watch Final Video](https://github.com/shubhsst04/shotcut-advanced-vfx/blob/main/shortcut%20video.mp4)
 
 ## Conclusion
 This experiment helped me learn advanced video filters, keyframe animation, and video export using Shotcut.
